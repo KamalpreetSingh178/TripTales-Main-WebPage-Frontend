@@ -8,6 +8,7 @@ Navbar-Will exist globally
 Components-That are shared
 Widgets-Post Widgets,User Widgets,Friends List Widgets
 So We will set up basically portals by creating a scenes Folder for layout and sectioning-Setup Layouts for our Components
+We will have them as JSX Files as they are Javascript files containing React Components
 Components-We can reuse throughout
 State Folder-For Redux and toolkit information
 We will keep our data and components separate
