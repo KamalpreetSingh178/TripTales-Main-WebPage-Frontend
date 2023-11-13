@@ -15,3 +15,10 @@ Different packages in Material UI-
 @motion/react 
 @emotion/styled 
 @mui/icons-material
+
+Delete from src Folder-
+setupTests.js
+reportWebVitals.js
+logo.svg
+App.test.js
+App.css
