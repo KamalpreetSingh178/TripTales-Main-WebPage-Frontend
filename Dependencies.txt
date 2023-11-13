@@ -1,2 +1,17 @@
 npm i -g npx #Install npx
 npx create-react-app client #Create React App
+cd client
+npm i react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup react-router-dom@6 @mui/material @motion/react @motion/styled @mui/icons-material
+react-redux #Most Popular Enterprise level State Management tool
+@reduxjs/toolkit #Toolkit being a very easy way to use Redux-It's a wrapper around redux and used as main State Management library
+redux-persist #Selectively store state into local storage-To store User and Token Information locally
+react-dropzone #File upload and File handling on the Frontend
+dotenv #For Environment variables
+formik #Form Handling
+yup #Form Validation
+react-router-dom #For handling different routes and different pages
+Different packages in Material UI-
+@mui/material 
+@motion/react 
+@motion/styled 
+@mui/icons-material
