@@ -1,0 +1,2 @@
+npm i -g npx #Install npx
+npx create-react-app client #Create React App
