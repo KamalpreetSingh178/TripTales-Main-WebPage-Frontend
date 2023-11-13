@@ -1,0 +1,13 @@
+React Redux File Folder Architecture and React Router Setup
+We will set it up on basis od scenes or essentially how the UI looks
+We will have-
+Homepage
+Profile Page
+Login In Page
+Navbar-Will exist globally
+Components-That are shared
+Widgets-Post Widgets,User Widgets,Friends List Widgets
+So We will set up basically portals by creating a scenes Folder for layout and sectioning-Setup Layouts for our Components
+Components-We can reuse throughout
+State Folder-For Redux and toolkit information
+We will keep our data and components separate
